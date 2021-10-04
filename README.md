@@ -15,7 +15,7 @@
 * * Image/video processing
 * * UI development
 * * Extensive Debugging/ Prototyping
-* * Working/Programming with a team
+* * Working/Programming with a team and using GitHub
 * We anticipate the following challenges to name a few:
 * * Recognizing the Pen using CV in various orientations
 * * Syncing data between the Camera and IMU
@@ -23,6 +23,7 @@
 * * Clean/working UI
 * * Pen motion tracking for proper movements
 * * Getting a working/functional prototype
+* * Navigating GitHub
 
 ## Team Information
 William Muckelroy III (Team Lead)
