@@ -1,23 +1,35 @@
-# CSC Hacks Sample Project Repo
-
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9). Feel free to download / clone this repository as a starting point.
+# CSC Hacks 2021 Touchless Display Pen Design
 
 ## Project Description
-*This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
-* We want to accomplish x, y, z, using technologies x, y, z.
-* We want to do this because of x, y, z.
-* Doing this will require learning x, y, z.
-* We anticipate the following challenges: x, y, z.
+* We want to turn Non-Touch Displays into Touchscreens so that you can use devices like your laptop or desktop (with monitor) as a touchscreen to write down notes or edit documents so long as you have a webcam!
+* We want to do this because there have been way too many times where we have experienced a need to write something down or edit a document, but did not have a piece of paper or an tablet to write on. As a result, we saw a need to allow users to be able to write on their displays to markup/edit documents or take notes without the need to go and buy an expensive tablet.
+* Doing this will/may require learning the following:
+* * How to implement Computer Vision
+* * How to program in Python
+* * Gathering Data from an IMU sensor
+* * How to manipulate device peripherals for input/output purposes
+* * Syncing/calibration of data between two input streams (IMU and Camera)
+* * App Development
+* * Communications Technologies (Bluetooth, ZigBee, etc)
+* * Working with AR Tags
+* * Image/video processing
+* * UI development
+* * Extensive Debugging/ Prototyping
+* * Working/Programming with a team
+* We anticipate the following challenges to name a few:
+* * Recognizing the Pen using CV in various orientations
+* * Syncing data between the Camera and IMU
+* * Edge Case Testing (i.e. Pen out of view of camera, AR Tag out of view, etc)
+* * Clean/working UI
+* * Pen motion tracking for proper movements
+* * Getting a working/functional prototype
 
 ## Team Information
-Richie Goulazian
-* Pitt CS, 2023
-* rgoulazian@pitt.edu
-* Richie78321 in the CSC Discord
-* Check out my portfolio site! https://rgoulazian.com/
+William Muckelroy III (Team Lead)
+* University of Pittsburgh - 2024
+* Computer Engineering with a minor in CS
+* wlm14@pitt.edu
 
-Ming Wang
-* Pitt CS, 2022
-* zhw78@pitt.edu
-* He smells
-* https://www.linkedin.com/in/zhengmingwang/
+Jared Peter
+* Pitt CS, 2024
+* jap300@pitt.edu
